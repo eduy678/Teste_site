@@ -1,0 +1,22 @@
+body{
+  background-color: #D9EAF7;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+  color: darkblue ;
+}
+h2{
+  color: darkblue;
+}
+img {
+    width: 100%; 
+    max-width: 600px; 
+    height: auto; 
+    display: block;
+    margin: 0 auto;
+}
+
+
+
